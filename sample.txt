@@ -1,1 +1,1 @@
-This is sample
+Hello sample from master
