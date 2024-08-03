@@ -1,2 +1,1 @@
-abc
-changed due to learn amend command
+Hello abc
